@@ -2,6 +2,7 @@
 
 # arca
 .vscode
+package-lock.json
 
 # dependencies
 /node_modules
